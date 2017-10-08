@@ -26,6 +26,14 @@
       "fx": 727.9975256815788,
       "fy": -695.6818839707998,
       "nodes": [
+         {
+          "text": "A Road Map to start Web Development",
+          "url": "https://medium.com/@abelkoottothara/a-roadmap-to-become-a-web-developer-8ea8d1f4c044",
+          
+          "nodes": [],
+          "category": "article",
+          "color": "rgba(175, 54, 242, 1.0)"
+        },
         {
           "text": "visual overview of what web development entails and what you can learn",
           "url": "https://github.com/kamranahmedse/developer-roadmap",
